@@ -1,0 +1,35 @@
+
+input{
+  width:100%;
+  border: 2%;
+}
+
+.my-row{
+  padding: 5px;
+  
+
+}
+
+.my-button{
+  min-width: 80px;
+
+}
+
+.float{
+  float:left;
+}
+
+.todo-container{
+  margin: 0;
+  border: none;
+  height: auto;
+  
+}
+
+.center{
+ text-align: center;
+}
+
+.my-input{
+  padding: 5px;
+}
